@@ -1,4 +1,4 @@
-fake-project-for-tests
+fake-project-for-tests by me
 ======================
 
 ![Build status](https://travis-ci.org/bellingard/fake-project-for-tests.svg?branch=master)
